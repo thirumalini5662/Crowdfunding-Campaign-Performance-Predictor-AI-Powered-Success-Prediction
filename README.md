@@ -1,4 +1,4 @@
-# 🚀 Crowdfunding Campaign Performance Predictor
+# Crowdfunding Campaign Performance Predictor
 
 ### AI-Powered Machine Learning Application for Crowdfunding Success Prediction
 
