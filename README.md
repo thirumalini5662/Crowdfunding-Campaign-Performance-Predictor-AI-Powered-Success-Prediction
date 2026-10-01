@@ -1,0 +1,2 @@
+# Crowdfunding-Campaign-Performance-Predictor-AI-Powered-Success-Prediction
+An AI-powered Machine Learning application that predicts the success probability of crowdfunding campaigns using historical campaign data. Built with Python, Scikit-learn and Streamlit, the project combines predictive analytics, campaign insights and an interactive dashboard to help entrepreneurs evaluate campaign potential before launch.
